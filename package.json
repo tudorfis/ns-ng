@@ -35,7 +35,7 @@
     "@schematics/angular": "^8.3.22",
     "nativescript-dev-webpack": "~1.4.0",
     "typescript": "~3.5.3",
-    "node-sass": "4.12.0"
+    "node-sass": "4.13.1"
   },
   "gitHead": "fa98f785df3fba482e5e2a0c76f4be1fa6dc7a14",
   "readme": "NativeScript Application",
